@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [Frontend Mentor solution URL](https://www.frontendmentor.io/solutions/faq-accordion-using-javascript-0_RHnQ0yda)
 -   Live Site URL: [Github pages live](https://stanmancer.github.io/faq-accordion/)
 
 ### Built with
